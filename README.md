@@ -4,6 +4,7 @@
 ## Java
 
 ## 历史
+* [你一定爱读的极简欧洲史](https://book.douban.com/subject/5366248/)
 
 ## 架构
 
